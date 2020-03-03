@@ -1,11 +1,13 @@
 ---
-layout: base
+layout: plain_base
 title: Privacy Policy
 permalink: /privacy-policy
 last_revised: February 29, 2020
 support_email: support@koalahealth.org
 address: 
 ---
+<h1>{{ page.title }}</h1>
+
 Last Revised: {{ page.last_revised }}
 
 Koala Health (“Koala”, “we”, or “us”) is committed to respecting the privacy of users of our Site and Service. This Privacy Policy (“Privacy Policy”) is intended to describe how Koala Health collects, uses and discloses information in order to provide you with www.koalahealth.org, and our mobile applications (the “Site”) and Service.
