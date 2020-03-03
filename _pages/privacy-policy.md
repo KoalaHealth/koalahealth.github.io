@@ -1,73 +1,98 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>Privacy Policy - Koala Health</title>
-    <link rel="amphtml" href="https://www.koalahealth.com/amp/privacy-policy">
-    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
-    <script type="application/ld+json">
-      {
-        "@context": "http://schema.org",
-        "@type": "NewsArticle",
-        "headline": "Open-source framework for publishing content",
-        "datePublished": "2015-10-07T12:02:41Z",
-        "image": [
-          "logo.jpg"
-        ]
-      }
-    </script>
-    <link href="https://fonts.googleapis.com/css?family=Lato:300&display=swap" rel="stylesheet"> 
-  </head>
-  <body style="font-family: 'Lato'; font-weight: 200;">
-    <h1  style="font-family: 'Lato'; font-weight: 100;">Koala Health Privacy Policy</h1>
-    <main>
-        Last Revised: February 29, 2020
+---
+layout: base
+title: Privacy Policy
+permalink: /privacy-policy
+last_revised: February 29, 2020
+support_email: support@koalahealth.org
+address: 
+---
+Last Revised: {{ page.last_revised }}
+
 Koala Health (“Koala”, “we”, or “us”) is committed to respecting the privacy of users of our Site and Service. This Privacy Policy (“Privacy Policy”) is intended to describe how Koala Health collects, uses and discloses information in order to provide you with www.koalahealth.org, and our mobile applications (the “Site”) and Service.
 The Service provides individuals accessing it with general information on health care and other general content pertaining to health and wellness topics and access to wellness professionals and facilities offering their services via the Service (the “Practitioners”). This Privacy Policy applies to anyone accessing our Site or Service (collectively, “you”), including (a) casual visitors to our Site who do not sign up for an account (“Site Visitors”) and (b) individuals who have registered to use our Site or Service (“Registered Users”). This Privacy Policy is incorporated into our Terms of Use, as applicable. Therefore, terms used in this Privacy Policy that have been previously defined will have the same meanings as provided in our Terms of Use, as applicable. As with our Terms of Use, if we make any changes to our Privacy Policy, we will post the revised Privacy Policy to the Site and update the “Last Revised” date of the Privacy Policy.
+
 WHAT INFORMATION DO WE COLLECT?
+
 	1.	As described in this Privacy Policy, we may collect certain Personal Data from or about you in connection with your use of, or your submissions to, the Site and the provision of the Service. You are not required to provide all Personal Data identified in this Privacy Policy; however, please be advised that if you do not provide the Personal Data requested, we may be unable to provide some or all of the Services to you.
+
 	2.	Personal Data. “Personal Data,” for purposes of this Privacy Policy, means information relating to an identified or identifiable natural person. The Personal Data we collect may include:
+
 	3.	Name, Contact, and Demographic Data. We may collect information such as your name, date of birth, gender, e-mail address, phone number, billing and physical addresses, and company information. If you are a Registered User, we may also collect your username and password.
+
 	4.	Health and Wellness Data. We may also collect certain information related to your wellness background, weight, height, lifestyle information, medication history, healthcare providers you visited, your reason for visiting a healthcare provider, date of visit, medical history and condition, images or videos, diagnoses, treatment plans, prescription information, laboratory results, and other health-related information in order to provide the Service (“Health and Wellness Data”). Please see the following section for information regarding the collection of special categories of Personal Data.
+
 	5.	Payment and Insurance Data. We may collect payment data and insurance information, such as insurance eligibility and coverage and information regarding your dependents, if applicable, in order to provide the Service.
+
 	6.	Location Data. We may obtain information regarding your location or the location of your device through which you access our Service. For example, we collect general location data when you provide us with your zip code. In addition, if you use our mobile applications, our Service may obtain precise information about the location of your device with your express consent. Once you have consented to the collection of the precise location of your device, you may revoke this consent by managing your location services preferences through the settings of your device.
+
 	7.	Special Categories of Personal Data. We generally do not require you to submit special categories of Personal Data in order to visit our Site. However, as our Service provides general information on health care and other general content pertaining to health and wellness topics, we may need to collect certain special categories of Personal Data, such as health information, in order to provide the Service. In the event we need to collect data that would constitute special categories of Personal Data in order to provide a specific service to you, we will obtain your consent as required by law.
+
 	8.	Cookies and Similar Technologies. We may collect certain Personal Data using cookies and other technologies, such as web beacons, device IDs, geolocation, HTML5 local storage, Flash cookies, and IP addresses. We specifically use browser cookies for different purposes, including cookies that are strictly necessary for functionality and cookies that are used for personalization, performance/analytics, and advertising. When you visit the Site, we may also automatically collect certain data about your device, including information about your web browser, IP address, time zone, language preferences, and information regarding your device and browser, including device identifiers. Additionally, as you browse the Site, we may collect information about the individual web pages or services that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. Our “Use of Cookies and Similar Technologies” section contains more information and options to control or opt-out of certain data collection or uses related to cookies and similar technologies.
+
 	9.	Anonymous Data. We may create de-identified or anonymous data from Personal Data by removing data components (such as your name, email address, or linkable tracking ID) that makes the data personally identifiable to you or through obfuscation or through other means. Our use of anonymized data is not subject to this Privacy Policy.
  
 HOW DO WE COLLECT INFORMATION?
+
 	1.	We may collect Personal Data as follows:
+
 	2.	When you create an account or otherwise utilize our Service. We may collect Personal Data, such as your name, address, phone number, email address, username and password, when you create an account with us or otherwise utilize our Services. In addition, we may collect Health and Wellness Data about you and your dependents, if applicable, in order to provide a specific Service to you. We may also collect payment data and insurance information in connection with providing the Service to you.
+
 	3.	When you communicate with us or sign up for materials. We may collect Personal Data, such as your name, email address, and other contact information, when you communicate with us, including when you submit information through the Site, submit inquiries, or request information from us. We also collect information when you communicate with Practitioners through the Service. We may also collect Personal Data when you sign up to join our email list or to access or receive information about our Service, news and updates, webinars, white papers, or other information and content.
+
 	4.	When you engage with our online communities and forums. We may collect Personal Data when you engage with our online communities and forums, including any information you may provide through your interaction with or participation in our blogs and social media pages and groups. Please note that online forums may be publicly accessible and other users may view information you post in the forums. We encourage you to exercise care in deciding what information and content you wish to disclose on the areas of the Site that are accessible to the general public.
+
 	5.	When we collect data from third parties, such as your employer or Practitioners. We may obtain certain data about you from third-party sources in order to provide the Services and for marketing and advertising. For example, we collect certain information about you and your dependents, if applicable, from your employer in order to verify your eligibility to participate in the Service, such as name, email address, address, and whether you are enrolled in your employer’s health plan. We may also collect certain information, including Health and Wellness Data, from the Practitioners who provide treatment or other services to you in connection with our Service. We may combine Personal Data with data we obtain from our Services, other users, or third parties to enhance your experience and improve the Services.
+
 	6.	When we leverage and/or collect cookies, device IDs, location, data from the environment, and other tracking technologies. We may collect certain Personal Data using cookies and other technologies, such as web beacons, device IDs, geolocation, HTML5 local storage, Flash cookies, and IP addresses, as further described in this Privacy Policy. Our “Use of Cookies and Similar Technologies” section contains more information and options to control or opt-out of certain data collection or uses related to cookies and similar technologies.
 ‍
 HOW DO WE USE THE INFORMATION WE COLLECT?
+
 	1.	We may use Personal Data for a variety of different purposes as set out in further detail in this Privacy Policy. In some cases, we may ask for your consent so that we may process your Personal Data. However, in certain circumstances, applicable data protection laws allow us to process your Personal Data without needing to obtain your consent. Subject to applicable law, the purposes for which we use and process your Personal Data, and the legal basis for such processing, are set forth below.
+
 	2.	For the performance of a contract. We may use Personal Data to perform our contractual obligations, including to fulfill your request for a Service, to contact you in relation to the Service, to take steps in response to information or inquiries you may submit prior to entering into an agreement with us, and to provide your Personal Data to our service providers.
+
 	3.	Legitimate Interests. We may use Personal Data in order to operate our organization and provide the Service, other than in performing our contractual obligations to you, for our “legitimate interests” for the purposes of applicable law, except where our interests are overridden by the interests or fundamental rights and freedoms of the data subject. Our legitimate interests may include:
+
 	4.	To maintain the Site and provide the Service, including for technical support, to facilitate the provision of healthcare services to you by Practitioners, and to provide Practitioners the services and support necessary for health care operations;
+
 	5.	To administer your account and Service, including to process payments, fulfill orders, verify your age or identity, and to authenticate and authorize access to the Site and the Service;
+
 	6.	To communicate with you regarding the Service, including to send you communications on behalf of Practitioners and to provide you important notices regarding this Privacy Policy or our Terms of Use;
+
 	7.	To provide customer support and address and respond to your requests, inquiries, and complaints;
+
 	8.	To protect the confidentiality or security of information;
+
 	9.	To develop, provide, and improve the Site and Service, including to better tailor the features, performance, and support of the Site and Service, and for statistical and analytics purposes;
+
 	10.	For our direct marketing purposes;
+
 	11.	To send surveys in connection with our Service;
+
 	12.	For fraud, loss, and other crime prevention purposes, to assist in the investigation of suspected illegal or wrongful activity, and to protect and defend our rights and property, or the rights or safety of third parties;
+
 	13.	To enforce our Terms of Use, this Privacy Policy, or agreements with third parties;
+
 	14.	To comply with laws, regulators, court orders, or other legal obligations, or pursuant to legal process.
+
 	15.	Consent. In some cases where we are not already authorized to process the Personal Data under applicable law, we may ask for your consent to process your Personal Data, including:
+
 	16.	Special Categories of Personal Data. As indicated above, we may collect certain Health and Wellness information in order to provide the Service. In the event we may need to collect data that would constitute special categories of Personal Data in order to provide a specific Service to you, we will obtain your consent as required by law. In certain circumstances, subject to applicable law, we may process or otherwise disclose special categories of Personal Data without consent, such as to protect the vital interests of you or of another person.
+
 	17.	Precise Location Data. If we collect precise location data, we will obtain your consent as required by law. We use information regarding your location or the location of your device through which you access our Service for a number of purposes, including, but not limited to: (a) identifying Practitioners who may provide you with healthcare services; (b) providing you with a list of nearby pharmacies that may fulfill any prescriptions provided to you by your Practitioner; and (c) identifying other healthcare providers whom you may visit at the recommendation of your Practitioner.
+
 	18.	Marketing. Where we are not relying on our legitimate interests or another legal basis for processing Personal Data, we may ask for your consent to contact you by telephone, SMS, post and/or email about other offers, products, promotions, developments, or services which we think may be of interest to you and for other marketing purposes.
+
 	19.	Cookies. We may also request consent for some cookies in accordance with our cookie policy.
+
 	20.	To comply with legal obligations. We may use Personal Data in order to comply with laws, regulators, court orders, or other legal obligations, or pursuant to legal process.
+
 	21.	To protect data subjects’ vital interests. We may use Personal Data where we believe it is necessary to protect the vital interests of you or of another person.
 ‍
 HOW DO WE DISCLOSE INFORMATION?
+
 	1.	We may disclose your information to third parties in connection with the provision of our Service or as otherwise permitted or required by law, including:
+
 	2.	Affiliates. We may disclose some or all of your Personal Data to our subsidiaries, joint ventures, and other companies under our common control (collectively, "Affiliates"), for the purposes described in this Privacy Policy. Where we share Personal Data with our Affiliates, we will require our Affiliates to honor this Privacy Policy.
 	3.	Service Providers and Business Partners. We may engage third parties to perform certain functions on our behalf. To do so, we may disclose certain information to our third-party service providers that provide services, such as the hosting of our Service, data analysis, IT services and infrastructure, customer service, e-mail delivery, auditing and other similar services, and for marketing and advertising purposes. We require third-party providers to use information only as necessary to provide the service for which we have engaged them. For example, we may disclose Personal Data to the following types of third-party providers:
 	4.	Customer Service and Communications. We utilize third-party solutions and systems to manage our contacts and programs, and for customer service, communications, and marketing purposes.
@@ -82,54 +107,64 @@ HOW DO WE DISCLOSE INFORMATION?
 	13.	Business Transactions. Subject to applicable law, we reserve the right to transfer some or all Personal Data in our possession to a successor organization in the event of any reorganization, merger, sale, joint venture, assignment, transfer, liquidation, or other disposition of all or any portion of our business, assets, or stock. If any such transaction occurs, the purchaser will be entitled to use and disclose the Personal Data collected by us in the same manner that we are able to, and the purchaser will assume the rights and obligations regarding Personal Data as described in this Privacy Policy. With respect to transfers to third party agents of Koala Health under the Privacy Shield, the Privacy Shield requires that Koala Health remain liable should those agents process your information in a manner inconsistent with the Privacy Shield Principles.
 ‍
 HOW LONG DO WE STORE INFORMATION?
+
 	1.	We will retain your Personal Data for as long as is necessary to fulfill the purposes for which we obtained the Personal Data, including to provide the Service, or for such longer period as may be required or permitted by applicable law. We will also retain your Personal Data as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We use the following criteria to set our retention periods: (i) the duration of our relationship with you; (ii) the purposes for processing your Personal Data and associated legal bases; (iii) the existence of a legal obligation as to the retention period; and (iv) the advisability of retaining the information in light of our legal position (for example, in light of applicable statutes of limitations, litigation, or regulatory investigations).
 ‍
 USE OF COOKIES AND SIMILAR TECHNOLOGIES
+
 	1.	The Site may use cookies and similar technologies to improve user experience, for performance and analytics, and to improve our content and the Service. A “cookie” is a small text file that a web server stores in browser software. The purpose of cookies is to remember the browser over time and distinguish one browser instance (or user) from all others. Some cookies and other technologies may serve to track Personal Data previously entered by a web user on the Site. Cookies can remember login information, preferences, and similar information. We may use cookies to collect certain information about you and your use of our Service, such as IP addresses, domain names, and the type of device and operating system being used. We may also use cookies to identify your device when you revisit our Service to, for example, recall your authentication information or to track statistical information related to navigation throughout the Site. Cookies, as well as other tracking technologies, such as HTML5 local storage, and Local Shared Objects (such as “Flash” cookies), and similar mechanisms, may record information such as a unique identifier, information you enter in a form, IP address, and other categories of data. We may also use web beacons or “pixels,” and in certain circumstances may collect IP address, screen resolution and browser software and operating system types, clickstream patterns, dates and times that our site is accessed, and other categories of data. Most browsers allow you to control cookies, including whether or not to accept them, and how to remove them. You may adjust your browser to refuse to accept cookies, remove cookies, or notify you when a cookie is set by editing your web browser preferences or options. (Each browser is different, so you should refer to the settings menu on your browser to change your cookie preferences.) Please note that if you choose to erase or block your cookies, you may not be able to use some features of the Service, or certain features may not function properly.
 ‍
 DO-NOT-TRACK
+
 	1.	Do-Not-Track is a public-private initiative that has developed a “flag” or signal that an Internet user may activate in the user’s browser software to notify websites that the user does not wish to be “tracked” by third-parties as defined by the initiative. Please note that the Site does not alter its behavior or use practices when we receive a “Do Not Track” signal from browser software.
 ‍
 SOCIAL NETWORK WIDGETS
+
 	1.	Our Site may include social network sharing widgets that may provide information to their associated social networks or third-parties about your interactions with our web pages that you visit, even if you do not click on or otherwise interact with the plug-in or widget. Information is transmitted from your browser and may include an identifier assigned by the social network or third party, information about your browser type, operating system, device type, IP address, and the URL of the web page where widget appears. If you use social network tools or visit social networking sites, we encourage you to read their privacy disclosures to learn what information they collect, use, and share.
 ‍
 USE BY MINORS
-	1.	Our Service is intended for use by individuals 18 years of age or older. We do not knowingly collect information from individuals under the age of 13 years without parental consent. However, if you are a parent, legal guardian, or personal representative of a minor child, you may, in compliance with the Terms of Use, use our Service on behalf of such minor child. Any information you provide us on behalf of your minor child will be treated in accordance with this Privacy Policy. If we learn that we have received any information from an individual under the age of 13 without parental consent, we will take steps to remove the data as permitted by law. If you believe an individual under 13 years of age has provided us with Personal Data without parental consent, please contact us at support@koalahealth.org or by postal mail at the contact information listed in the “Contacting Us” section.
+
+	1.	Our Service is intended for use by individuals 18 years of age or older. We do not knowingly collect information from individuals under the age of 13 years without parental consent. However, if you are a parent, legal guardian, or personal representative of a minor child, you may, in compliance with the Terms of Use, use our Service on behalf of such minor child. Any information you provide us on behalf of your minor child will be treated in accordance with this Privacy Policy. If we learn that we have received any information from an individual under the age of 13 without parental consent, we will take steps to remove the data as permitted by law. If you believe an individual under 13 years of age has provided us with Personal Data without parental consent, please contact us at {{ support_email }} or by postal mail at the contact information listed in the “Contacting Us” section.
 ‍
 LINKS TO OTHER SITES
+
 	1.	Our Site may contain links or otherwise provide access to another website, mobile application, or Internet location (collectively “Third-Party Sites”). For example, when you choose to contact a medical professional in response to your request for a recommendation, you are providing information (including Personal Data) directly to third parties outside of Koala Health. Please note that we have no control over and are not responsible for Third-Party Sites, their content, or any goods or services available through the Third-Party Sites. Our Privacy Policy does not apply to Third-Party Sites. We encourage you to review the Notice of Privacy Practices of each Practitioner who provides you with services and the privacy policies of any website or application with which you interact.
 ‍
 SECURITY OF INFORMATION
+
 	1.	We implement technical and organizational security measures designed to safeguard Personal Data. Please note, however, we cannot fully eliminate security risks associated with the storage and transmission of Personal Data. You also must keep your password secure and your account confidential. If you have reason to believe that the security of your account has been compromised, please notify us immediately in accordance with the “Contacting Us” section below.
 ‍
 DATA SUBJECT RIGHTS
+
 	1.	Data subjects in the European Economic Area, European Union, Switzerland, and certain other jurisdictions have certain rights under applicable data protection law, including the right to request confirmation from us as to whether or not we are processing your Personal Data. Where we are processing your Personal Data, subject to applicable law, you also have the right to:
 	2.	Request access to, modification or rectification, or deletion. You have the right to request access to, modification of, or deletion of your Personal Data we maintain. Registered Users can also make changes to their profile by logging into their account and adjusting information through the settings.
 	3.	Request restriction of processing. You have the right to request that we restrict processing of your Personal Data in certain circumstances, such as where you believe that the Personal Data we hold about you is inaccurate or our processing is unlawful.
 	4.	Object to processing. In certain circumstances, you may have the right to request that we stop processing your Personal Data, such as a request to stop sending you direct marketing communications. To opt-out of direct marketing communications, please see the instructions in the “Withdrawing Your Consent” section of this Privacy Policy.
 	5.	Data portability. In certain circumstances, you may have the right to receive the Personal Data concerning you that you provided to us or to request that we transmit your Personal Data to another data controller.
 	6.	Lodge a Complaint. You have the right to lodge a complaint with a supervisory authority.
-	7.	To exercise your rights, you may contact us as at support@koalahealth.org or by postal mail at the contact information listed in the “Contacting Us” section. As permitted by law, certain data elements may not be subject to access, modification, portability, restriction, and/or deletion. Furthermore, where permissible, we may charge for this service. We will respond to reasonable requests as soon as practicable and as required by law. To protect your privacy and security, we may take steps to verify your identity in order to respond to your request.
+	7.	To exercise your rights, you may contact us as at {{ support_email }} or by postal mail at the contact information listed in the “Contacting Us” section. As permitted by law, certain data elements may not be subject to access, modification, portability, restriction, and/or deletion. Furthermore, where permissible, we may charge for this service. We will respond to reasonable requests as soon as practicable and as required by law. To protect your privacy and security, we may take steps to verify your identity in order to respond to your request.
 ‍
 WITHDRAWING YOUR CONSENT
-	1.	In most cases, we need to process certain of your Personal Data in order to fulfil our contractual obligations to you and for our legitimate interests. Where the basis of processing is legitimate interests, you have a right to object to the processing of your Personal Data. Please note that, subject to applicable law, we may continue to process your Personal Data even where you object if there are compelling legitimate grounds for processing that override your interests and rights, or where processing is necessary to establish, exercise, or defend legal claims. Where consent is the basis of processing, you may at any time withdraw the consent you provided for the processing of your Personal Data for the purposes set forth in this Privacy Policy by contacting us at support@koalahealth.org, provided that we are not required by applicable law or professional standards to retain such information. If you would like to stop receiving newsletters or other marketing or promotional messages, notifications, or updates, you may do so by following the unsubscribe instructions that appear in these e-mail communications, or you may contact us at support@koalahealth.org to opt-out of direct marketing. Please be advised that you may not be able to opt-out of receiving certain service or transactional messages from us, including legal notices. Please note that if you do not provide consent, if you withdraw your consent or object to processing, or if you choose not to provide certain Personal Data, we may be unable to provide some or all of the Services to you.
+
+	1.	In most cases, we need to process certain of your Personal Data in order to fulfil our contractual obligations to you and for our legitimate interests. Where the basis of processing is legitimate interests, you have a right to object to the processing of your Personal Data. Please note that, subject to applicable law, we may continue to process your Personal Data even where you object if there are compelling legitimate grounds for processing that override your interests and rights, or where processing is necessary to establish, exercise, or defend legal claims. Where consent is the basis of processing, you may at any time withdraw the consent you provided for the processing of your Personal Data for the purposes set forth in this Privacy Policy by contacting us at {{ support_email }}, provided that we are not required by applicable law or professional standards to retain such information. If you would like to stop receiving newsletters or other marketing or promotional messages, notifications, or updates, you may do so by following the unsubscribe instructions that appear in these e-mail communications, or you may contact us at {{ support_email }} to opt-out of direct marketing. Please be advised that you may not be able to opt-out of receiving certain service or transactional messages from us, including legal notices. Please note that if you do not provide consent, if you withdraw your consent or object to processing, or if you choose not to provide certain Personal Data, we may be unable to provide some or all of the Services to you.
 ‍
 TRANSFER OF DATA TO THE U.S.
+
 	1.	Please note that if you are visiting the Site from outside of the United States, your information may be transferred to, stored, and/or processed in the United States. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. If you are located outside of the United States, the transfer of Personal Data is necessary to provide you with the requested information and Service and/or to perform any requested transaction. By using any portion of the Site, you acknowledge and consent to the transfer of your information to our facilities in the United States.
 ‍
 CALIFORNIA PRIVACY RIGHTS
-	1.	Residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain information with respect to the types of personal information (as defined by California law) the business shares with third parties for those third parties' direct marketing purposes, and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To exercise your rights, you may make one request per calendar year by submitting your request in writing using the email address support@koalahealth.org or by postal mail at the contact information listed in the “Contacting Us” section.
+
+	1.	Residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain information with respect to the types of personal information (as defined by California law) the business shares with third parties for those third parties' direct marketing purposes, and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To exercise your rights, you may make one request per calendar year by submitting your request in writing using the email address {{ support_email }} or by postal mail at the contact information listed in the “Contacting Us” section.
 ‍
 PRIVACY SHIELD NOTICE FOR USERS IN THE EUROPEAN UNION AND SWITZERLAND
-	1.	Koala Health complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union or Switzerland, to the United States. Koala Health has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/. In compliance with the Privacy Shield Principles, Koala Health commits to resolve complaints about our collection or use of your personal information. Individuals in the European Union or Switzerland with inquiries or complaints regarding our Privacy Shield policy should first contact Koala Health at support@koalahealth.org or by mail at the address below. We will respond to your inquiry or complaint within 30 days. Koala Health has further committed to refer unresolved Privacy Shield complaints to the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus, an alternative dispute resolution provider. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit http://www.bbb.org/EU-privacy-shield/for-eu-consumers for more information or to file a complaint. The services of the BBB EU PRIVACY SHIELD alternative resolution services are provided at no cost to you. Under certain limited conditions, individuals may invoke binding arbitration as a last resort before the Privacy Shield Panel. The FTC has jurisdiction over Koala Health’s compliance with the Privacy Shield.
+
+	1.	Koala Health complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union or Switzerland, to the United States. Koala Health has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/. In compliance with the Privacy Shield Principles, Koala Health commits to resolve complaints about our collection or use of your personal information. Individuals in the European Union or Switzerland with inquiries or complaints regarding our Privacy Shield policy should first contact Koala Health at {{ support_email }} or by mail at the address below. We will respond to your inquiry or complaint within 30 days. Koala Health has further committed to refer unresolved Privacy Shield complaints to the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus, an alternative dispute resolution provider. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit http://www.bbb.org/EU-privacy-shield/for-eu-consumers for more information or to file a complaint. The services of the BBB EU PRIVACY SHIELD alternative resolution services are provided at no cost to you. Under certain limited conditions, individuals may invoke binding arbitration as a last resort before the Privacy Shield Panel. The FTC has jurisdiction over Koala Health’s compliance with the Privacy Shield.
 ‍
 UPDATES TO THIS POLICY
+
 	1.	We may update this Privacy Policy from time to time. The most recent version of the Privacy Policy is reflected by the version date located at the top of this Privacy Policy. We encourage you to review this Privacy Policy often to stay informed of how we may process your information.
 ‍
 CONTACTING US
-	1.	If you have any questions about this Privacy Policy, please contact us by email at support@koalahealth.org or by regular mail at:
-	2.	Koala Health, LLC [address here]
 
-    </main>
-  </body>
-</html>
+	1.	If you have any questions about this Privacy Policy, please contact us by email at {{ support_email }} or by regular mail at:
+	2.	Koala Health, LLC {{ page.address }}
