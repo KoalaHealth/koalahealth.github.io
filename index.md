@@ -1,17 +1,12 @@
 ---
 layout: base
 title: Homepage
+amp_link: /
 ---
-<body style="font-family: 'Lato'; font-weight: 200;">
-    <div style="text-align: center; margin: 50px 0 0 0;">
-        <img src="assets/img/koala_logo-small.png" height="10%" width="10%" style="min-width: 89.5px; min-height: 50px; max-width: 358px; max-height: 200px;" />
+<div style="width: 100%; height: 50vh; max-width: 1600px; margin: 0 auto; text-align: center; vertical-align: top;">
+    <video class="lazy" autoplay muted loop playsinline style="width: 100%;" layout="fill" poster="https://firebasestorage.googleapis.com/v0/b/koala-health-webpage.appspot.com/o/media%2Fimg%2Fhealth-new-tech.png?alt=media&v=1">
+        <source type="video/mp4" data-src="https://firebasestorage.googleapis.com/v0/b/koala-health-webpage.appspot.com/o/media%2Fvid%2Fhealth-new-tech-long.mp4?alt=media&v=1" />
+    </video>
+</div>
 
-        <h1  style="color: #fff; font-family: 'Lato'; font-size: 24px; font-weight: 100;">Welcome to Koala Health</h1>
-    </div>
-
-    <div style="width: 100%; height: 50vh; max-width: 1600px; margin: 0 auto; text-align: center; vertical-align: top;">
-        <video class="lazy" autoplay muted loop playsinline style="width: 100%;" layout="fill" poster="https://firebasestorage.googleapis.com/v0/b/koala-health-webpage.appspot.com/o/media%2Fimg%2Fhealth-new-tech.png?alt=media&v=1">
-            <source type="video/mp4" data-src="https://firebasestorage.googleapis.com/v0/b/koala-health-webpage.appspot.com/o/media%2Fvid%2Fhealth-new-tech-long.mp4?alt=media&v=1" />
-        </video>
-    </div>
-</body>
+<h1  style="color: #fff; font-family: 'Lato'; font-size: 24px; font-weight: 100;">Welcome to Koala Health</h1>
