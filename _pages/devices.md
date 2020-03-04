@@ -1,5 +1,5 @@
 ---
 layout: base
-title: speeches
-permalink: /speeches
+title: devices
+permalink: /devices
 ---
