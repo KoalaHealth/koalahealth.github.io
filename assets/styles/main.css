@@ -45,3 +45,8 @@ nav a:hover:before {
     -webkit-transform: scaleX(1);
     transform: scaleX(1);
 }
+
+footer {
+    margin: 0 0 20px 0;
+    text-align: center;
+}
