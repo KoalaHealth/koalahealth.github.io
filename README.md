@@ -1,2 +1,3 @@
 # koalahealth.github.io
-Check us out at [KoalaHealth.org](https://KoalaHealth.org)
+Learn more about us at [KoalaHealth.org](https://KoalaHealth.org)
+
