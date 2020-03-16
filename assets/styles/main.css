@@ -50,3 +50,30 @@ footer {
     margin: 0 0 20px 0;
     text-align: center;
 }
+
+footer a {
+    color: #000;
+}
+
+amp-video.contain {
+    background: #fff;
+    height: 0;
+    max-height: 1080px;
+    max-width: 1920px;
+    overflow: hidden; 
+    margin: 0 auto;
+    padding-top: calc(1080 / 1920 * 100%);
+    position: relative;
+}
+
+amp-video.contain video {
+    background: #fff;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    max-width: 1920px;
+    height: 100%;
+    outline: 0;
+    border: 0;
+}
