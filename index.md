@@ -2,6 +2,7 @@
 layout: base
 title: Homepage
 amp_link: /
+jsonld: index/indexld
 ---
 <div style="display: block; width: 100%; height: 80vh; max-width: 1600px; margin: 0 auto; text-align: center; vertical-align: top;overflow: hidden;">
     <video class="lazy" autoplay muted loop playsinline style="height: 100%;" layout="fill" poster="https://firebasestorage.googleapis.com/v0/b/koala-health-webpage.appspot.com/o/media%2Fimg%2Fhealth-new-tech.png?alt=media&v=1">
