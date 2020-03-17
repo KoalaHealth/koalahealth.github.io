@@ -55,6 +55,20 @@ footer a {
     color: #000;
 }
 
+main.plain-container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+main.plain-container h3 {
+    font-size: 30px;
+    margin: 50px 0 0 0;
+}
+
+main.plain-container p {
+    font-size: 24px;
+}
+
 amp-video.contain {
     background: #fff;
     height: 0;
