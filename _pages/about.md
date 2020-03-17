@@ -14,5 +14,5 @@ permalink: /about
     <p>We are "battle-worn" health care professionals and engineers trained at some of the top institutitons in the United States, including Dartmouth-Hitchcock Medical Clinic and Stanford Health Care.</p>
 
     <h3>We Believe</h3>
-    <p>We believe in evidence-based practice and providing support for all health care providers.  We also believe even the best designed randomized/placebo-controlled study can be undermined by a skewed participant pool (self-selection bias).  Even with our research, if you believe there is an issue with any of our products, please reach out to us!  We are happy to work with you to resolve them.</p>
+    <p>We believe in evidence-based practice and providing support for all health care providers.  We also believe even the best designed randomized/placebo-controlled study can be undermined by a skewed participant pool (self-selection bias).  Even with our research, if you believe there is an issue with any of our products, please reach out to us!  We are happy to work with you to improve our products to provide greater benefit and better patient care.</p>
 </main>
