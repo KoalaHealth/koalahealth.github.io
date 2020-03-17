@@ -66,6 +66,10 @@ footer a {
     color: #000;
 }
 
+strong {
+    font-weight: bold;
+}
+
 .plain-container {
     width: 90%;
     margin: 0 auto;
