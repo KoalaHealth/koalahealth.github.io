@@ -46,6 +46,17 @@ nav a:hover:before {
     transform: scaleX(1);
 }
 
+hr {
+    background: #ccc;
+    border: none;
+    width: 50%;
+    height: 1px;
+}
+
+hr.divider {
+    margin: 30px auto;
+}
+
 footer {
     margin: 0 0 20px 0;
     text-align: center;
@@ -55,17 +66,18 @@ footer a {
     color: #000;
 }
 
-main.plain-container {
+.plain-container {
     width: 90%;
     margin: 0 auto;
+    box-sizing: border-box;
 }
 
-main.plain-container h3 {
+.plain-container h3 {
     font-size: 30px;
     margin: 50px 0 0 0;
 }
 
-main.plain-container p {
+.plain-container p {
     font-size: 24px;
 }
 
