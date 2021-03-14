@@ -9,10 +9,9 @@ jsonld: index/indexld
 </div>
 
 <section style="overflow: auto; width: 100%; max-width: 1600px; margin: 0 auto 100px auto; text-align: center;">
-    <div style="display: inline-block; position: relative; width: 40%; text-align: right;">
+    <div style="display: inline-block; position: relative; width: 40%; text-align: right; margin: 40px 40px 0 0;">
         <img src="{{ relative_url }}/assets/img/MACCs-Logo.png" alt="MACCs Logo" width="240px" style="border: 1px solid #eee; border-radius: 15px;" />
     </div>
-    <div style="display: inline-block; height: 340px; width: 1px; background: rgba(230, 230, 230, 1); margin: 40px 40px 0 40px;"></div>
     <div style="display: inline-block; position: relative; text-align: left; width: 40%;">
         <div style="font-size: 42px; font-weight: bold;">Family-Friendly,</div>
         <div style="font-size: 42px; font-weight: bold;">Privacy-Forward,</div>
