@@ -15,4 +15,4 @@ permalink: /MACCs
 
 <hr class="divider" />
 
-<!-- {% include scolio/faqs.html %} -->
+{% include maccs/faqs.html %}
