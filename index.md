@@ -22,8 +22,11 @@ jsonld: index/indexld
     </div>
 </section>
 
-<section style="overflow: auto; width: 100%; max-width: 1600px; margin: 0 auto 100px auto; text-align: center; vertical-align: middle;">
+<section style="overflow: auto; width: 100%; max-width: 1600px; margin: 0 auto 80px auto; text-align: center; vertical-align: middle;">
     <h3 style="font-size: 36px;">We are <span style="font-weight: bold;">Parents</span>, <span style="font-weight: bold;">Healthcare Professionals</span>, and (some of us) <span style="font-weight: bold;">Volunteers</span>.</h3>
+    <p style="font-size: 24px; line-height: 1.6;">
+    We create apps and products that we use and trust to keep our personal, identifiable information private.<br />
+    </p>
 </section>
 
 <section style="overflow: auto; width: 100%; max-width: 1600px; margin: 0 auto 100px auto; text-align: center; vertical-align: middle;">
@@ -34,6 +37,8 @@ jsonld: index/indexld
     Many of our products are created by friend-engineers, volunteering their time to bettering our communities through useful apps.<br />
     Consider supporting them with a gift donation!<br />
     </p>
-    <a href="https://paypal.me/KoalaHealthMe">Give With Paypal</a>
+    <div style="text-align: center; margin: 40px auto;">
+        <a href="https://www.paypal.com/paypalme/KoalaHealthMe" class="shiny-button">Go To Donation Box</a>
+    </div>
     <p style="font-size: 16px;">Supporters that opt-in may be asked to try out early-access, internal, or closed-network features in our apps.  There is no obligation though.</p>
 </section>
