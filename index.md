@@ -25,17 +25,17 @@ jsonld: index/indexld
         <div>Another news app.</div>
     </a>
     <a class="flex-item subtle-link" href="https://apps.apple.com/us/app/ana-my-personal-news/id6451175818" alt="ANA Link" target="_blank">
-        <div>Download</div>
+        <div><img src="{{ base_url }}/assets/img/Apple_logo-small.png" height="32px" width="auto" style="vertical-align: bottom;" /> Download</div>
     </a>
 
     <div class="flex-item subtle-link">
-        <div class="">Jewel - Digital Stethoscope Companion app</div>
+        <div class="">Dahlia - QR Codes</div>
     </div>
     <div class="flex-item subtle-link">
-        <div>Companion app to the "Jewel" digital stethoscope to listen to body sounds with multiple caregivers at once.</div>
+        <div>App to quickly create beautiful, customized QR codes.</div>
     </div>
     <div class="flex-item subtle-link">
-        <div>No Longer Available</div>
+        <div>Update coming soon...</div>
     </div>
 
     <a class="flex-item subtle-link" href="{{ base_url }}/MACCs" alt="MACCs Link">
@@ -45,17 +45,47 @@ jsonld: index/indexld
         <div>Maximize all of your credit cards' rewards.</div>
     </a>
     <a class="flex-item subtle-link" href="https://apps.apple.com/us/app/maccs-credit-card-reference/id1554705198" target="_blank" alt="MACCs Link">
-        <div>Download</div>
+        <div><img src="{{ base_url }}/assets/img/Apple_logo-small.png" height="32px" width="auto" style="vertical-align: bottom;" /> Download</div>
     </a>
 
     <div class="flex-item subtle-link">
-        <div class="">Soothe app</div>
+        <div class="">Koala Publisher</div>
+    </div>
+    <div class="flex-item subtle-link">
+        <div>A multi-platform digital web publishing app for bloggers, content-creators, reporters, and other types of writers.</div>
+    </div>
+    <div class="flex-item subtle-link">
+        <div>Currently available to employees of our wonderful partners</div>
+    </div>
+
+    <div class="flex-item subtle-link">
+        <div class="">Respiration app</div>
+    </div>
+    <div class="flex-item subtle-link">
+        <div>Innovative clinical assistant app for caregivers to help accurately capture clinical respirations.</div>
+    </div>
+    <div class="flex-item subtle-link">
+        <div>Currently available to employees of our wonderful partners</div>
+    </div>
+
+    <a class="flex-item subtle-link" href="{{ base_url }}/Scolio" alt="Scoliio Link">
+        <div>Scolio - Better Digital Scoliometer</div>
+    </a>
+    <a class="flex-item subtle-link" href="{{ base_url }}/Scolio" alt="Scolio Link">
+        <div>A beautiful digital scoliometer to measure degrees of curvature in the spine (often trunk asymmetry or axial trunk rotation for scoliosis).  Scolio app allows greater angles than most scoliometers.</div>
+    </a>
+    <a class="flex-item subtle-link" href="https://apps.apple.com/us/app/scolio-digital-scoliometer/id6478386576" target="_blank" alt="Scolio app link">
+        <div><img src="{{ base_url }}/assets/img/Apple_logo-small.png" height="32px" width="auto" style="vertical-align: bottom;" /> Download</div>
+    </a>
+
+    <div class="flex-item subtle-link">
+        <div class="">Soothe - for Parents</div>
     </div>
     <div class="flex-item subtle-link">
         <div>App for parents to privately track their baby's growth.</div>
     </div>
     <div class="flex-item subtle-link">
-        <div>Coming Soon...</div>
+        <div>Currently available to employees of our wonderful partners</div>
     </div>
 </section>
 
