@@ -1,7 +1,6 @@
 ---
 layout: base
 title: MACCs
-amp_link: /MACCs
 permalink: /MACCs
 ---
 <main class="plain-container">

@@ -3,6 +3,11 @@ body {
     margin: 0;
 }
 
+.newspaper-gray-bg {
+    background-color: rgba(220,220,220,0.3);
+    /*background-color: rgba(197,199,191,0.3);*/ /* Should be used in front of white background. Newspapers has low alpha. */
+}
+
 header {
     margin: 50px 0 0 0;
     text-align: center;
@@ -85,27 +90,36 @@ strong {
     font-size: 24px;
 }
 
-amp-video.contain {
-    background: #fff;
-    height: 0;
-    max-height: 1080px;
-    max-width: 1920px;
-    overflow: hidden; 
-    margin: 0 auto;
-    padding-top: calc(1080 / 1920 * 100%);
-    position: relative;
+.section-container {
+    box-sizing: border-box;
+    background: #eee; 
+    padding: 16px; border-radius: 16px; width: 80%; max-width: 1600px; margin: 80px auto 100px auto; text-align: center;
 }
 
-amp-video.contain video {
-    background: #fff;
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    max-width: 1920px;
-    height: 100%;
-    outline: 0;
-    border: 0;
+.flex-container {
+    align-content: flex-start;
+    align-items: stretch; 
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.flex-item {
+    flex: 1 0 31%;
+    margin: 8px;
+    text-align: left;
+}
+
+.subtle-link {
+    color: #aaa;
+    font-size: 24px;
+    text-decoration: none;
+}
+
+.subtle-link:hover {
+    color: #333;
+    text-decoration: underline;
 }
 
 .center-wrapper {

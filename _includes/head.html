@@ -1,16 +1,11 @@
 <!-- Required meta tags -->
 <meta charset="utf-8">
 
-{% if page.canonical_link %}
 <link rel="canonical" href="{{ site.url }}">
-{% elsif page.amp_link %}
-<link rel="amphtml" href="{{ site.url }}/amp{{ page.amp_link }}">
-{% endif %}
 
 <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
 <meta name="description" content="{{ page.description }}">
 <meta name="author" content="{{ site.author }}">
-<meta name="generator" content="Jekyll v4.0.0">
 {% if page.jsonld %}
 	{% include {{page.jsonld}}.html %}
 {% endif %}

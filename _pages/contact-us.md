@@ -1,7 +1,6 @@
 ---
 layout: base
 title: Contact
-amp_link: /contact
 permalink: /contact
 ---
 <div style="min-width: 320px; width: 90%; height: 930px; overflow: hidden; margin: 0 auto 20px auto; text-align: center;">

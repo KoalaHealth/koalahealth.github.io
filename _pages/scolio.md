@@ -1,7 +1,6 @@
 ---
 layout: base
 title: Scolio
-amp_link: /scolio
 permalink: /scolio
 ---
 <main class="plain-container">

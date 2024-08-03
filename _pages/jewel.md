@@ -1,7 +1,6 @@
 ---
 layout: base
 title: Jewel
-amp_link: /jewel
 permalink: /jewel
 ---
 <section style="display: block; width: 100%; height: 80vh; max-width: 1600px; margin: 0 auto; position: relative; text-align: center; vertical-align: top;overflow: hidden;">
