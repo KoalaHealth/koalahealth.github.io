@@ -117,7 +117,7 @@ strong {
     text-decoration: none;
 }
 
-.subtle-link:hover {
+a.subtle-link:hover {
     color: #333;
     text-decoration: underline;
 }

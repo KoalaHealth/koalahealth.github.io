@@ -49,16 +49,6 @@ jsonld: index/indexld
     </a>
 
     <div class="flex-item subtle-link">
-        <div class="">Miles app</div>
-    </div>
-    <div class="flex-item subtle-link">
-        <div>App for families to privately and easily record children's milestones and recall meaningful successes, events, achievements, memories, and more!</div>
-    </div>
-    <div class="flex-item subtle-link">
-        <div>Coming Soon...</div>
-    </div>
-
-    <div class="flex-item subtle-link">
         <div class="">Soothe app</div>
     </div>
     <div class="flex-item subtle-link">
