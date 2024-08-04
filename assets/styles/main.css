@@ -200,7 +200,7 @@ a.subtle-link:hover {
 
 @media (max-width: 753px) {
     .flex-item {
-        flex-basis: 40%;
+        flex: 1 0 40%;
     }
 
     .flex-item.hidden-mobile {
