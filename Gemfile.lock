@@ -83,7 +83,7 @@ GEM
     tzinfo-data (1.2024.1)
       tzinfo (>= 1.0.0)
     wdm (0.1.1)
-    webrick (1.8.1)
+    webrick (1.8.2)
 
 PLATFORMS
   aarch64-linux-gnu
@@ -106,7 +106,7 @@ DEPENDENCIES
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
-  webrick (~> 1.7)
+  webrick (~> 1.8)
 
 BUNDLED WITH
    2.5.17
